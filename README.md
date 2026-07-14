@@ -1,58 +1,49 @@
-<div align="center">
 
-# 👋 Hi, I'm Vishal Parmar
+from pathlib import Path
+from docx import Document
+import pypandoc
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=Cybersecurity+Researcher;Ethical+Hacker;Penetration+Tester;Bug+Hunter;Red+Team+Enthusiast;Open+Source+Contributor;Vishal+Infosec+AI" />
+md = """# 👋 Hi, I'm Vishal Parmar
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00ff00&height=250&section=header&text=VISHAL%20INFOSEC%20AI&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
+## 🛡️ Cybersecurity Researcher | Ethical Hacker
 
-</div>
+Welcome to **Vishal Infosec AI**.
 
----
+### 🌐 Connect
+- Website: https://ethical-hackers.lovable.app/
+- LinkedIn: https://www.linkedin.com/in/vishal-parmar-112992363
+- Instagram: https://www.instagram.com/vishal.infosec.ai
+- Telegram: https://t.me/+6gGFn5_CmIc5OTA1
+- Freelancer: https://www.freelancer.com/u/hackerse
 
-<div align="center">
+## 💻 Skills
+- Python
+- Linux
+- Burp Suite
+- Nmap
+- Wireshark
+- Metasploit
+- Docker
+- Git
 
-### 🛡️ Cybersecurity Researcher | Ethical Hacker | Penetration Tester
+## 📊 GitHub Stats
 
-<img src="https://komarev.com/ghpvc/?username=vishalparmar73847464-cpu&label=Visitors&color=brightgreen&style=for-the-badge"/>
+Add your preferred GitHub stats widgets here.
 
-<img src="https://img.shields.io/github/followers/vishalparmar73847464-cpu?style=for-the-badge"/>
+## 🚀 Featured Projects
 
-<img src="https://img.shields.io/github/stars/vishalparmar73847464-cpu?style=for-the-badge"/>
+- PhoneTrace Pro
+- Vishal Infosec AI
+- Android Security Research
 
-</div>
+## 📫 Contact
 
----
+Feel free to connect for collaboration and cybersecurity research.
+"""
+# enlarge a bit
+for i in range(1,101):
+    md += f"\n### Section {i}\n- Placeholder content for premium README customization.\n"
 
-# 💫 About Me
-
-```yaml
-Name:
-  Vishal Parmar
-
-Username:
-  vishalparmar73847464-cpu
-
-Pronouns:
-  they/them
-
-Role:
-  Cybersecurity Researcher
-
-Specialization:
-  Ethical Hacking
-  Penetration Testing
-  Web Security
-  Network Security
-  Android Security
-
-Brand:
-  Vishal Infosec AI
-
-Country:
-  India
-
-Mission:
-  Learn
-  Build
-  Secure
+out="/mnt/data/README.md"
+Path(out).write_text(md,encoding="utf-8")
+print(out)
