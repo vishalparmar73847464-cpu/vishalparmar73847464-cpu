@@ -1,47 +1,104 @@
-# 🚀 Ultimate MCP Plugins Setup Guide
+<div align="center">
 
-## Customized Edition
+# 👋 Hi, I'm Vishal Parmar
 
-> **Original Guide:** Created by **@baqar.dev**
->
-> **Customized & Enhanced Edition:** Prepared by **Vishal Parmar (Vishal Infosec AI)**
+### 🛡️ Cybersecurity Researcher • Ethical Hacker • Penetration Tester
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=22C55E&center=true&vCenter=true&width=700&lines=Founder+of+Vishal+Infosec+AI;Cybersecurity+Researcher;Ethical+Hacker;Security+Automation;Always+Learning+%F0%9F%9A%80"/>
 
-# 👨‍💻 About This Customized Edition
-
-This edition has been customized by **Vishal Parmar** to improve readability, organization, and learning experience while preserving attribution to the original author.
-
-### Customizations include
-
-- Improved formatting
-- Better navigation
-- Additional notes and recommendations
-- Security best practices
-- Updated examples where appropriate
-- Community-focused presentation
+</div>
 
 ---
 
-# 👤 Maintained By
+# 🧑‍💻 About Me
 
-**Vishal Parmar**  
-Cybersecurity Researcher • Ethical Hacker • Vishal Infosec AI
-
-### Connect
-
-- GitHub: https://github.com/vishalparmar73847464-cpu
-- Website: https://ethical-hackers.lovable.app/
-- LinkedIn: https://www.linkedin.com/in/vishal-parmar-112992363
-- Instagram: https://www.instagram.com/vishal.infosec.ai
-- Freelancer: https://www.freelancer.com/u/hackerse
-- Facebook: https://www.facebook.com/share/1B9hZLCfni/
-- Telegram: https://t.me/+6gGFn5_CmIc5OTA1
+- 🔐 Cybersecurity Researcher
+- 🛡️ Ethical Hacker
+- 💻 Penetration Tester
+- 🐍 Python Developer
+- 🐧 Linux Enthusiast
+- 🌱 Currently learning AI + Cybersecurity
+- 🚀 Founder of **Vishal Infosec AI**
 
 ---
 
-# 📜 Attribution
+# 🌐 Connect With Me
 
-This document is based on the original guide by **@baqar.dev**.
+<p align="center">
 
-This customized edition adds formatting improvements, educational notes, and organizational enhancements. All credit for the original work remains with the original author.
+<a href="https://ethical-hackers.lovable.app/">🌐 Website</a> •
+<a href="https://www.linkedin.com/in/vishal-parmar-112992363">LinkedIn</a> •
+<a href="https://www.instagram.com/vishal.infosec.ai">Instagram</a> •
+<a href="https://t.me/+6gGFn5_CmIc5OTA1">Telegram</a> •
+<a href="https://www.freelancer.com/u/hackerse">Freelancer</a>
+
+</p>
+
+---
+
+# 💻 Tech Stack
+
+- Python
+- Linux
+- Git
+- Docker
+- Burp Suite
+- Nmap
+- Wireshark
+- Metasploit
+- OWASP
+- Kali Linux
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=vishalparmar73847464-cpu&show_icons=true&theme=radical"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalparmar73847464-cpu&layout=compact&theme=radical"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=vishalparmar73847464-cpu&theme=radical"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=vishalparmar73847464-cpu&theme=radical&no-frame=true&no-bg=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vishalparmar73847464-cpu&theme=react-dark"/>
+
+</p>
+
+---
+
+<div align="center">
+
+## ⭐ Thanks for visiting my profile!
+
+### Vishal Infosec AI
+
+**Hack • Learn • Build • Secure**
+
+</div>
