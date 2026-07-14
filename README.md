@@ -1,49 +1,45 @@
+# 📊 GitHub Stats
 
-from pathlib import Path
-from docx import Document
-import pypandoc
+<div align="center">
 
-md = """# 👋 Hi, I'm Vishal Parmar
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=vishalparmar73847464-cpu&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true"/>
 
-## 🛡️ Cybersecurity Researcher | Ethical Hacker
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalparmar73847464-cpu&layout=compact&theme=radical&hide_border=true&langs_count=10"/>
 
-Welcome to **Vishal Infosec AI**.
+</div>
 
-### 🌐 Connect
-- Website: https://ethical-hackers.lovable.app/
-- LinkedIn: https://www.linkedin.com/in/vishal-parmar-112992363
-- Instagram: https://www.instagram.com/vishal.infosec.ai
-- Telegram: https://t.me/+6gGFn5_CmIc5OTA1
-- Freelancer: https://www.freelancer.com/u/hackerse
+<br>
 
-## 💻 Skills
-- Python
-- Linux
-- Burp Suite
-- Nmap
-- Wireshark
-- Metasploit
-- Docker
-- Git
+<div align="center">
 
-## 📊 GitHub Stats
+<img width="70%" src="https://streak-stats.demolab.com?user=vishalparmar73847464-cpu&theme=radical&hide_border=true"/>
 
-Add your preferred GitHub stats widgets here.
+</div>
 
-## 🚀 Featured Projects
+<br>
 
-- PhoneTrace Pro
-- Vishal Infosec AI
-- Android Security Research
+<div align="center">
 
-## 📫 Contact
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=vishalparmar73847464-cpu&theme=react-dark&hide_border=true"/>
 
-Feel free to connect for collaboration and cybersecurity research.
-"""
-# enlarge a bit
-for i in range(1,101):
-    md += f"\n### Section {i}\n- Placeholder content for premium README customization.\n"
+</div>
 
-out="/mnt/data/README.md"
-Path(out).write_text(md,encoding="utf-8")
-print(out)
+<br>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=vishalparmar73847464-cpu&theme=radical&no-frame=true&no-bg=true&row=2&column=4"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=vishalparmar73847464-cpu&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/vishalparmar73847464-cpu?label=Followers&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/stars/vishalparmar73847464-cpu?affiliations=OWNER&style=for-the-badge"/>
+
+</div>
