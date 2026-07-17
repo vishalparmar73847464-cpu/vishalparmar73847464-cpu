@@ -28,7 +28,7 @@
 
 <a href="https://ethical-hackers.lovable.app/">🌐 Website</a> •
 <a href="https://www.linkedin.com/in/vishal-parmar-112992363">LinkedIn</a> •
-<a href="https://www.instagram.com/vishal.infosec.ai">Instagram</a> •
+<a href="https://www.instagram.com/ethical_hacker.l.l42">Instagram</a> •
 <a href="https://t.me/+6gGFn5_CmIc5OTA1">Telegram</a> •
 <a href="https://www.freelancer.com/u/hackerse">Freelancer</a>
 
