@@ -10,7 +10,7 @@
 
 ---
 # 💫 About Me:
-🔐 Cybersecurity Researcher<br>- 🛡️ Ethical Hacker<br>- 💻 Penetration Tester<br>- 🐍 Python Developer<br>- 🐧 Linux Enthusiast<br>- 🌱 Currently learning AI + Cybersecurity<br>- 🚀 Founder of **Vishal Infosec AI**
+-🔐Cybersecurity Researcher<br>- 🛡️ Ethical Hacker<br>- 💻 Penetration Tester<br>- 🐍 Python Developer<br>- 🐧 Linux Enthusiast<br>- 🌱 Currently learning AI + Cybersecurity<br>- 🚀 Founder of **Vishal Infosec AI**
 
 
 ## 🌐 Socials:
