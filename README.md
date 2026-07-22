@@ -46,7 +46,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://www.youtube.com/@EthicalHackers-I7u">
+<a href="[https://www.youtube.com/@EthicalHackers-I7u](https://youtube.com/@ethicalhackers-l7u?si=FJMIbONyC6jkp0zO)">
 <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
 </a>
 
