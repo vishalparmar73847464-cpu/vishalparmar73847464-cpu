@@ -34,11 +34,11 @@
 
 <p align="center">
 
-<a href="https://www.facebook.com/profile.php?id=61590940465535">
+<a href="https://www.facebook.com/profile.php?id=100073319380830">
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
 
-<a href="https://www.instagram.com/ethical_hacker.l.l54">
+<a href="https://www.instagram.com/ethical_hacker.l.l95">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
