@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Ethical Hacker
+# 👋 Hi, I'm Vishal Parmar
 
 ### 🛡️ Cybersecurity Researcher • Ethical Hacker • Penetration Tester
 
