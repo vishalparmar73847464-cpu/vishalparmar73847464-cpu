@@ -1,3 +1,4 @@
+<
 <div align="center">
 
 # 👋 Hi, I'm Vishal Parmar
@@ -46,7 +47,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="[https://www.youtube.com/@EthicalHackers-I7u](https://youtube.com/@ethicalhackers-l7u?si=FJMIbONyC6jkp0zO)">
+<a href="https://youtube.com/@ethicalhackers-l7u">
 <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
 </a>
 
@@ -115,27 +116,7 @@
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vishalparmar73847464-cpu&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=vishalparmar73847464-cpu&theme=tokyonight&row=2&column=4"/>
-
-</p>
-
----
-
-# ⚡ GitHub Metrics
-
-<p align="center">
-
-<img src="https://github-contributor-stats.vercel.app/api?username=vishalparmar73847464-cpu&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
+<img src="https://ghchart.rshah.org/22C55E/vishalparmar73847464-cpu" alt="Vishal's GitHub contribution chart"/>
 
 </p>
 
