@@ -1,4 +1,3 @@
-<
 <div align="center">
 
 # 👋 Hi, I'm Vishal Parmar
@@ -49,6 +48,10 @@
 
 <a href="https://youtube.com/@ethicalhackers-l7u">
 <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+
+<a href="https://www.freelancer.com/u/EthicalHacker43">
+<img src="https://img.shields.io/badge/Freelancer-29B2EF?style=for-the-badge&logo=freelancer&logoColor=white"/>
 </a>
 
 <a href="mailto:ethicalhackers741@gmail.com">
@@ -164,18 +167,14 @@
 
 🌍 **Website:** https://vishalinfosec.in
 
+💼 **Freelancer:** https://www.freelancer.com/u/EthicalHacker43
+
 ☕ **Buy Me a Coffee:** https://buymeacoffee.com/vishal.infosec.ai
 
 ---
 
 <div align="center">
 
-## ⭐ Thanks for visiting my profile!
-
-### 🛡️ Vishal Infosec AI
-
-### **Hack • Learn • Build • Secure**
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=22C55E&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!;Happy+Hacking!;Stay+Secure!"/>
+⭐ **Thanks for visiting my profile!** ⭐
 
 </div>
