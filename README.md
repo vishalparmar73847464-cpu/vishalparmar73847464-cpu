@@ -50,10 +50,6 @@
 <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
 </a>
 
-<a href="https://www.freelancer.com/u/EthicalHacker25?sb=t">
-<img src="https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=freelancer&logoColor=white"/>
-</a>
-
 <a href="mailto:ethicalhackers741@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
@@ -166,8 +162,6 @@
 📧 **Email:** ethicalhackers741@gmail.com
 
 🌍 **Website:** https://vishalinfosec.in
-
-💼 **Freelancer:** https://www.freelancer.com/u/EthicalHacker25?sb=t
 
 ☕ **Buy Me a Coffee:** https://buymeacoffee.com/vishal.infosec.ai
 
